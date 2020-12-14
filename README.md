@@ -13,5 +13,5 @@ https://chengweilin114.github.io/
 
 Feel free to reach out my project web page at:
 https://chengweilin114.github.io/tableau_COVID-19_dashboard.html
-https://chengweilin114.github.io/tableau_COVID-19_data story.html
+https://chengweilin114.github.io/tableau_COVID-19_data_story.html
 
