@@ -1,4 +1,4 @@
-# chengweilin114.github.io
+# chengweilin114.Data_Science
 
 ## Hello World!
 
@@ -8,8 +8,8 @@ https://github.com/chengweilin114
 My Github pages repo can be found at:
 https://github.com/chengweilin114/https://chengweilin114.github.io/
 
-This is my customized homepage at:
-https://chengweilin114.github.io/
+//This is my customized homepage at:
+//https://chengweilin114.github.io/
 
 Feel free to reach out my project web page at:
 https://chengweilin114.github.io/tableau_COVID-19_dashboard.html
