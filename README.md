@@ -27,5 +27,5 @@ https://chengweilin114.github.io/tableau_COVID-19_dashboard.html
 ### Data Visualization
 
   * Title:[Project management for visualization, analytics software development](https://github.com/chengweilin114/Updated_COVID-19_dashboard)
-  * Implement web data connector skills to gain the updated daily COVID-19 datasets from data source and analyze the insights of data using Tableau to forecast the trend of Top5 infected State's total confirmed cases after one month 
+  * Implement web data connector skills to gain the updated daily COVID-19 datasets from data source and analyze the insights of data using `Tableau` to forecast the trend of Top5 infected State's total confirmed cases after one month 
   * Agile based planning and development of dynamic COVID-19 dashboard and data storyboarding in Tableau with Github based continuous deployment
