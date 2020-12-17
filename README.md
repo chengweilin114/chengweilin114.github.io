@@ -18,7 +18,7 @@ https://chengweilin114.github.io/tableau_COVID-19_dashboard.html
 
 
 
-- [Machine Learning]
+* [Machine Learning]
 
 Title: [Machine learning for crystallography](https://github.com/ng-git/OptiMol)
 **Built open-source `Python package` to predict the crystallographic structure of organic small molecules
